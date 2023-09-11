@@ -1,0 +1,22 @@
+
+'''
+goal: confirm user email by sending a and phone number then store it in a sheet
+who, what, where
+
+the user enters their phone_num log in page/ main.py
+    if len phone_num > 10:
+        pin1 == generate 6 dig pin (OTP_Module)
+        send message with (OTP = pin1)  (Notification_Manager)
+    pin2 = input()
+    if pin1 == pin 2:
+        post user_name and phone_num to sheet (Data_sheet Module77877j)
+
+the user enters their email log in page/ main.py
+    - email1 is compared to email2
+
+
+
+
+
+
+'''

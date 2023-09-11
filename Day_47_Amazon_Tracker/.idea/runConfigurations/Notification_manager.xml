@@ -1,0 +1,28 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Notification_manager" type="PythonConfigurationType" factoryName="Python">
+    <module name="Day_47_Amazon_Tracker" />
+    <option name="INTERPRETER_OPTIONS" value="" />
+    <option name="PARENT_ENVS" value="true" />
+    <envs>
+      <env name="account_sid" value="AC6f116151d21a4d82a76413bc5f07b6ca" />
+      <env name="auth_token" value="b498a4bb728a1093d016af30fa804f80" />
+      <env name="my_email" value="Opportunityhubzw@Gmail.Com" />
+      <env name="password" value="vmlvmqygizoyuesv" />
+      <env name="PYTHONUNBUFFERED" value="1" />
+    </envs>
+    <option name="SDK_HOME" value="C:\Users\Ashley\MiniConda3\python.exe" />
+    <option name="SDK_NAME" value="Python 3.9" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <option name="IS_MODULE_SDK" value="false" />
+    <option name="ADD_CONTENT_ROOTS" value="true" />
+    <option name="ADD_SOURCE_ROOTS" value="true" />
+    <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Notification_manager.py" />
+    <option name="PARAMETERS" value="" />
+    <option name="SHOW_COMMAND_LINE" value="false" />
+    <option name="EMULATE_TERMINAL" value="false" />
+    <option name="MODULE_MODE" value="false" />
+    <option name="REDIRECT_INPUT" value="false" />
+    <option name="INPUT_FILE" value="" />
+    <method v="2" />
+  </configuration>
+</component>
